@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Page – Home Example 1`] = `
+<div
+  className="home-page"
+>
+  <h2>
+    Home
+  </h2>
+  <p>
+    Hello!
+  </p>
+</div>
+`;

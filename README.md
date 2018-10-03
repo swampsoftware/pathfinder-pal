@@ -1,1 +1,1 @@
-# pathfinder-pal
+Pathfinder Dungeon Master, Player, and Dashboard system.
